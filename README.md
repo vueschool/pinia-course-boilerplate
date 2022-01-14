@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Boilerplate Code for the Course: Pinia, The Enjoyable Vue Store 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Course Feature Image](https://vueschool.io/media/bc6229f7525d1df7f87bd22604eaa468/Pinia_not-transparent.png)
 
-## Recommended IDE Setup
+## How to Use
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+```
+npx degit  vueschool/pinia-course-boilerplate 
+```
+```
+npm install
+npm run dev
+```
+
+[Checkout the course!](https://vueschool.io/courses/pinia-the-enjoyable-vue-store)
