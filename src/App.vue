@@ -7,7 +7,7 @@ import products from "@/data/products.json";
 <template>
   <div class="container">
     <TheHeader />
-    <ul class="md:flex gap-5">
+    <ul class="sm:flex flex-wrap lg:flex-nowrap gap-5">
       <ProductCard
         v-for="product in products"
         :key="product.name"
